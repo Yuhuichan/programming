@@ -1,2 +1,2 @@
 # programming
-print 'hellowolrd'
+"PE2 test"
